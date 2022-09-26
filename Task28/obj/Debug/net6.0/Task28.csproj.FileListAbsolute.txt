@@ -1,0 +1,15 @@
+D:\Документы\GB\C#\26.09.2022sem\Task28\bin\Debug\net6.0\Task28.exe
+D:\Документы\GB\C#\26.09.2022sem\Task28\bin\Debug\net6.0\Task28.deps.json
+D:\Документы\GB\C#\26.09.2022sem\Task28\bin\Debug\net6.0\Task28.runtimeconfig.json
+D:\Документы\GB\C#\26.09.2022sem\Task28\bin\Debug\net6.0\Task28.dll
+D:\Документы\GB\C#\26.09.2022sem\Task28\bin\Debug\net6.0\Task28.pdb
+D:\Документы\GB\C#\26.09.2022sem\Task28\obj\Debug\net6.0\Task28.csproj.AssemblyReference.cache
+D:\Документы\GB\C#\26.09.2022sem\Task28\obj\Debug\net6.0\Task28.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\GB\C#\26.09.2022sem\Task28\obj\Debug\net6.0\Task28.AssemblyInfoInputs.cache
+D:\Документы\GB\C#\26.09.2022sem\Task28\obj\Debug\net6.0\Task28.AssemblyInfo.cs
+D:\Документы\GB\C#\26.09.2022sem\Task28\obj\Debug\net6.0\Task28.csproj.CoreCompileInputs.cache
+D:\Документы\GB\C#\26.09.2022sem\Task28\obj\Debug\net6.0\Task28.dll
+D:\Документы\GB\C#\26.09.2022sem\Task28\obj\Debug\net6.0\refint\Task28.dll
+D:\Документы\GB\C#\26.09.2022sem\Task28\obj\Debug\net6.0\Task28.pdb
+D:\Документы\GB\C#\26.09.2022sem\Task28\obj\Debug\net6.0\Task28.genruntimeconfig.cache
+D:\Документы\GB\C#\26.09.2022sem\Task28\obj\Debug\net6.0\ref\Task28.dll
